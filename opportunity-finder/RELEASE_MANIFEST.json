@@ -1,0 +1,242 @@
+{
+  "name": "opportunity-finder",
+  "version": "1.6.2",
+  "release": "public-free-posthog-privacy-hardened-final",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 3854,
+      "sha256": "6b89f495f45de5250c155db5d56b564933df99031b5dad4d30f5557b19322dcb"
+    },
+    {
+      "path": "DEMO.md",
+      "bytes": 1321,
+      "sha256": "2fbb1e5c8d3fb0f7f9c19e81968195b8847d9ca323e044ec74ab668e74909e07"
+    },
+    {
+      "path": "HOST_COMPAT_REPORT.md",
+      "bytes": 1011,
+      "sha256": "78029545f7facd83367ce92fbd3171a1c232967753c7227f48a8d206d0ddf17a"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 560,
+      "sha256": "d156928a4d7c282743e96a9fee8c349b34bf3cba8038014f66fa2e0feb00e1b5"
+    },
+    {
+      "path": "LIVE_HOST_ACCEPTANCE.md",
+      "bytes": 1556,
+      "sha256": "0d68d5b673af64eb1af642f5e5884528ef2cd879e027273fdb929d5873d21c94"
+    },
+    {
+      "path": "MARKETPLACE_LISTING.md",
+      "bytes": 2496,
+      "sha256": "6abab7e65ea00bf50d6abe60434f8c4e48334d60d29d28c89c1dc59eff9832a4"
+    },
+    {
+      "path": "POSTHOG_SETUP.md",
+      "bytes": 1656,
+      "sha256": "f5811bbaae0ea0080a02073d495cab839af82b8eb0d0fa4723d0bcab7ba5396d"
+    },
+    {
+      "path": "PRIVACY.md",
+      "bytes": 1931,
+      "sha256": "ee801536fd6bdc00c6403f1c63ef232b1aed514b0a62a4a5d17f02914c0decfe"
+    },
+    {
+      "path": "PUBLISH_CHECKLIST.md",
+      "bytes": 1604,
+      "sha256": "19ae9da42c6250e38ad64eb63f607477af93446828af8886f4602ff5a4f4ee42"
+    },
+    {
+      "path": "QA_REPORT.md",
+      "bytes": 2121,
+      "sha256": "af5712815a64d9aab16a0428cda173564f0f0861dca27241134735bb6dd0651d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8408,
+      "sha256": "a05c21a6830049d5db63eae40e3538761088809946ae2d25652c945ac4645051"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 19048,
+      "sha256": "f910270a95cec34fce8b4e8e3f564a1a61798dd0616fdcb32b3ceb64e912b539"
+    },
+    {
+      "path": "SPEC_VALIDATION.md",
+      "bytes": 951,
+      "sha256": "90cce25407b06269b1a394d523f7a066e7f700db77bd1755869dc84b41167b2f"
+    },
+    {
+      "path": "assets/cover.png",
+      "bytes": 41926,
+      "sha256": "e2e8d1ad2a3c4592702f90ead4e976a9074dce45cc33dea388a22505b54b01fe"
+    },
+    {
+      "path": "assets/cover.svg",
+      "bytes": 1042,
+      "sha256": "126e7a5e150ff66e28ff752776cc30081a463e0945a99829cc6718cf51745959"
+    },
+    {
+      "path": "assets/icon.png",
+      "bytes": 14702,
+      "sha256": "cf7b0e07e57e39a0167090c952f396d13359818aeaae582aa7daa6400ae34847"
+    },
+    {
+      "path": "assets/icon.svg",
+      "bytes": 663,
+      "sha256": "88fabb1cc4b0afd41a4e025eb092ffe9987e68b6fa4c767de07ceb7cd4f85e15"
+    },
+    {
+      "path": "config/criteria.json",
+      "bytes": 2826,
+      "sha256": "3f7c2993319face43cbec2c975a6fee3ef9c1d97ed9a192436f390b8860f3840"
+    },
+    {
+      "path": "config/telemetry.defaults.json",
+      "bytes": 285,
+      "sha256": "08c767549bf046ea669a4a86e731d1d68956224bd039919c606ce8b1a6d71f19"
+    },
+    {
+      "path": "config/telemetry.example.json",
+      "bytes": 267,
+      "sha256": "34516cb71fded88b867abe0f8d190cee3c0b5ff460614c33c8cef643e57470e6"
+    },
+    {
+      "path": "examples/candidates.example.json",
+      "bytes": 11658,
+      "sha256": "50610786cfdb51010ac0665b75fd1175f1aaed1d2172df68de5f204e52eab919"
+    },
+    {
+      "path": "examples/scored_output.json",
+      "bytes": 5536,
+      "sha256": "30761713eb9c1d861ef7135db7e653d5be5764afd77ba9f524cc5a5fa5146841"
+    },
+    {
+      "path": "references/anti-saturation.md",
+      "bytes": 1266,
+      "sha256": "3a9a19f189ee06ce05d61edbe61de67e8ba5c09b3367096e812f41f5f989135a"
+    },
+    {
+      "path": "references/business-model.md",
+      "bytes": 1523,
+      "sha256": "6e70a72d68eda09c86e8f442e6823b5265efa5f5497bc465a477ab6da9917f36"
+    },
+    {
+      "path": "references/competition-maturity.md",
+      "bytes": 1772,
+      "sha256": "f38fad6d27fe0373803920de4dd2f8803d8e9458b78ef26df9f5eeda2d04b99e"
+    },
+    {
+      "path": "references/competitor-map.md",
+      "bytes": 1910,
+      "sha256": "e6c9b42d3d615236c9ca497a130907f74b2ab145043a8b72dc0c2e7ff1427d62"
+    },
+    {
+      "path": "references/evidence-schema.md",
+      "bytes": 2228,
+      "sha256": "b28aa303276bcf8434a6b8cc2718aa26783ca8ad8a4ecc6446b7fa557a0688c9"
+    },
+    {
+      "path": "references/feasibility-gates.md",
+      "bytes": 3192,
+      "sha256": "003a1e2ec8bc271ff9b0ae9055a7c4b11dba6b911010e1992d7195683d60e229"
+    },
+    {
+      "path": "references/platform-incident-quarantine.md",
+      "bytes": 996,
+      "sha256": "30c1a93b1073fc0206969a34192e6e024ff0456c5806ea48ee064795f35cadde"
+    },
+    {
+      "path": "references/scoring-rubric.md",
+      "bytes": 3912,
+      "sha256": "b5638ccc90ca6166be48c266894d4b509b31d5058626930852f18cd250b8b87e"
+    },
+    {
+      "path": "references/signal-hierarchy.md",
+      "bytes": 1846,
+      "sha256": "3d22230a0348882174812162508b823dba945edd9b1c3fd17a5cbe039a37f284"
+    },
+    {
+      "path": "references/source-traceability.md",
+      "bytes": 2660,
+      "sha256": "b6ef041795a0aaae04d94c667aaa5678fb261f63013c0752c5e3aaa99e9879b2"
+    },
+    {
+      "path": "references/telemetry-policy.md",
+      "bytes": 2356,
+      "sha256": "2ec40f73bd8dce80388639961e73e0b711ab6ecd9e194cc5656195229e9f0ac4"
+    },
+    {
+      "path": "references/winner-benchmark.md",
+      "bytes": 2826,
+      "sha256": "2e9cca2632e357f077e7f21fb886bf3d42a78dbdf4264e8047c9aecede18da5e"
+    },
+    {
+      "path": "references/winner-patterns.md",
+      "bytes": 2889,
+      "sha256": "13187de4f430513a18f935f8f2bb8f314b03e1e3da2f0155b3828647a22eacb2"
+    },
+    {
+      "path": "scripts/local_ledger.py",
+      "bytes": 3137,
+      "sha256": "d6b826f4d7883547c68fae9307543f6e60d5a97d473da3d7298c80c437a57ecc"
+    },
+    {
+      "path": "scripts/render_source_ledger.py",
+      "bytes": 3184,
+      "sha256": "f19e0b71d50eb818038e4d8d704794cfad4f55f47db10461f52162fec810e758"
+    },
+    {
+      "path": "scripts/score_opportunities.py",
+      "bytes": 14346,
+      "sha256": "aca97195df053c3020a3600f652f96d8f9febbf2389da400a2f000ddb87a2477"
+    },
+    {
+      "path": "scripts/telemetry_client.py",
+      "bytes": 10171,
+      "sha256": "030f2ed69ffeaa3a732258294061b06d5a3266d646131a11aabf87250ecdb83e"
+    },
+    {
+      "path": "scripts/telemetry_consent.py",
+      "bytes": 2615,
+      "sha256": "79a668d81e7fc7ead3fe9e8cc07a4a46e9e9260c27564a8c01fcfd3a0f3eee94"
+    },
+    {
+      "path": "scripts/validate_scan.py",
+      "bytes": 6917,
+      "sha256": "f276edf0f78b9046cbe707ecd40386405c6df6611c4751e74fe29d69ccb097b1"
+    },
+    {
+      "path": "tests/test_local_ledger.py",
+      "bytes": 1496,
+      "sha256": "1be06573fdc87d0793a22ae814a882acdcaaabc008a34479688360b6ba3018d5"
+    },
+    {
+      "path": "tests/test_package.py",
+      "bytes": 5144,
+      "sha256": "d977eb9be7e10c866e83901640eb48d623dfbbe55a04cf857d04fbb0e965eb53"
+    },
+    {
+      "path": "tests/test_scan_validation.py",
+      "bytes": 4262,
+      "sha256": "42d3ab55e3418b8355f56361225204814a2a52f827123cf49674135780c9d44f"
+    },
+    {
+      "path": "tests/test_score.py",
+      "bytes": 10412,
+      "sha256": "a7011900422975475d2d16a41ef4ea0356bb88e2756dc6b46165393967eb812d"
+    },
+    {
+      "path": "tests/test_source_renderer.py",
+      "bytes": 1596,
+      "sha256": "32708c7f8e9b32c4a9d8a1fb14aa30570bc1bace105a441d18711b169f9e17b1"
+    },
+    {
+      "path": "tests/test_telemetry.py",
+      "bytes": 7466,
+      "sha256": "dd42db08a5764cd0b15838d96e9c9a21c70bf15ad23c3f8216901ad3a88ab95e"
+    }
+  ]
+}

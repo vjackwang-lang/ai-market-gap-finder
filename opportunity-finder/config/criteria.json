@@ -1,0 +1,107 @@
+{
+  "version": "1.6.1",
+  "objective": "quick-commerce-ai-micro-product-portfolio",
+  "default_portfolio_strategy": "free-anchor-plus-fast-paid-skus",
+  "weights": {
+    "freshness": 10,
+    "ai_power_user_density": 7,
+    "evidence_quality": 11,
+    "repeated_evidence": 7,
+    "natural_distribution": 10,
+    "build_speed": 12,
+    "seller_economics": 13,
+    "technical_feasibility": 12,
+    "workaround_friction": 7,
+    "portfolio_value": 5,
+    "competition_window": 3,
+    "event_tailwind": 3
+  },
+  "penalties": {
+    "generic_wrapper": 15,
+    "mature_free_incumbent": 20,
+    "emerging_free_alternatives": 6,
+    "paid_ads_dependency": 20,
+    "high_support_debt": 15,
+    "seller_paid_runtime": 10,
+    "platform_capture_soon": 5,
+    "high_liability": 20,
+    "ambiguous_install_signal": 5,
+    "free_without_asset": 15,
+    "trivial_workaround": 20,
+    "platform_fix_in_progress": 10,
+    "unstable_private_api_dependency": 15,
+    "low_build_estimate_confidence": 10
+  },
+  "hard_reject_flags": [
+    "no_current_demand_evidence",
+    "build_over_hard_limit",
+    "unbounded_seller_runtime_cost",
+    "no_legal_distribution_path",
+    "inaccessible_required_surface",
+    "no_concrete_implementation_path",
+    "platform_incident_only"
+  ],
+  "legacy_hard_reject_flags": [
+    "build_over_3_days"
+  ],
+  "decision_bands": {
+    "ship": 80,
+    "test": 68,
+    "watch": 58
+  },
+  "default_scan_days": 30,
+  "fresh_scan_windows_days": [
+    1,
+    7,
+    30
+  ],
+  "minimum_independent_evidence_for_ship": 2,
+  "minimum_evidence_quality_for_ship": 6.0,
+  "preferred_build_hours_max": 8,
+  "hard_build_hours_max": 24,
+  "default_platform_fee_pct": 20,
+  "default_internal_hourly_rate_usd": 25,
+  "preferred_runtime_cost_owner": "user",
+  "default_top_n": 3,
+  "portfolio_roles": [
+    "FREE_ANCHOR",
+    "PAID_ACTIVATION",
+    "PAID_UTILITY",
+    "PAINKILLER",
+    "BUNDLE_COMPONENT",
+    "EVENT_SKU"
+  ],
+  "free_asset_targets": [
+    "installs",
+    "ranking",
+    "reviews",
+    "author_trust",
+    "opt_in_telemetry",
+    "demand_submissions",
+    "related_product_conversion"
+  ],
+  "minimum_technical_feasibility_for_ship": 7.0,
+  "minimum_workaround_friction_for_ship": 6.0,
+  "minimum_build_estimate_confidence_for_ship": 0.7,
+  "trivial_workaround_minutes_max": 5,
+  "broad_scan_min_distinct_domains": 4,
+  "broad_scan_domain_families": [
+    "core-agent-dev",
+    "research-knowledge",
+    "design-3d-cad",
+    "office-data",
+    "creator-media",
+    "automation-ops",
+    "professional-niche"
+  ],
+  "competition_maturity_levels": [
+    "none",
+    "emerging",
+    "mature"
+  ],
+  "platform_incident_quarantine": true,
+  "broad_scan_min_winner_benchmarks": 1,
+  "broad_scan_min_traceable_candidate_ratio": 1.0,
+  "minimum_traceable_sources_per_candidate": 1,
+  "minimum_traceable_sources_for_ship": 2
+}

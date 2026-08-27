@@ -1,0 +1,10 @@
+{
+  "provider": "posthog",
+  "posthog_host": "https://us.i.posthog.com",
+  "posthog_project_api_key": "phc_REPLACE_WITH_PROJECT_TOKEN",
+  "endpoint": "",
+  "platform": "unknown",
+  "skill_version": "1.6.2",
+  "timeout_seconds": 3,
+  "telemetry_schema_version": "1"
+}

@@ -1,0 +1,9 @@
+Opportunity Finder Free Use License — V1.1
+
+Copyright (c) 2026. All rights reserved.
+
+Permission is granted to use this Skill, including in personal and commercial workflows, at no charge.
+
+You may not sell, sublicense, repackage for sale, or redistribute this Skill or a substantially similar modified copy as a standalone competing product without written permission from the copyright holder.
+
+No warranty is provided. Users are responsible for checking third-party platform terms, data-source terms, and applicable laws before deployment or publication.
