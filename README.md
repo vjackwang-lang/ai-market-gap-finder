@@ -2,6 +2,8 @@
 
 **Opportunity Finder** is a free Agent Skill for finding fresh AI-native market gaps and micro-product opportunities worth shipping now — then killing weak ideas before you waste a weekend building them.
 
+It is not a generic idea generator; it is designed to find fresh, evidence-backed AI-native market gaps that may justify a small product now.
+
 It is designed for solo builders and AI power users working with Claude Code, Codex, Cursor, OpenClaw, WorkBuddy, MCP, Skills, and adjacent agent workflows.
 
 ## What it does
